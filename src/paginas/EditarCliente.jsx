@@ -7,5 +7,3 @@ function EditarCliente() {
     </div>
   );
 }
-
-export default EditarCliente;
