@@ -30,6 +30,9 @@ function Cliente({ cliente }) {
           <button
             className="bg-yellow-500 hover:bg-yellow-600 block w-full text-white p-1 capitalize mt-3"
             type="button"
+            onClick={() => {
+              navigate(`/clientes/editar/${id}`);
+            }}
           >
             Editar
           </button>

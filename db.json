@@ -1,7 +1,7 @@
 {
   "clientes": [
     {
-      "nombre": "Netflix",
+      "nombre": "Netflix2222",
       "empresa": "adad",
       "email": "correo@correo.com",
       "telefono": "",
@@ -39,6 +39,14 @@
       "telefono": "123123123123",
       "notas": "asd",
       "id": 5
+    },
+    {
+      "nombre": "Juan2",
+      "empresa": "CCJ",
+      "email": "correo@correo.com",
+      "telefono": "123123123123",
+      "notas": "CCJ",
+      "id": 6
     }
   ]
 }
