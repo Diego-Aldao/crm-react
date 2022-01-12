@@ -1,22 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Netflix2222",
-      "empresa": "adad",
-      "email": "correo@correo.com",
-      "telefono": "",
-      "notas": "",
-      "id": 1
-    },
-    {
-      "nombre": "Netflix",
-      "empresa": "adad",
-      "email": "correo@correo.com",
-      "telefono": "",
-      "notas": "",
-      "id": 2
-    },
-    {
       "nombre": "Netflix",
       "empresa": "adad",
       "email": "shizusenpai97@gmail.com",
