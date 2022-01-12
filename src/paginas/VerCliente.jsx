@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
+import Spinner from "../components/Spinner";
 
 function VerCliente() {
   const [cliente, setCliente] = useState({});
@@ -24,7 +25,7 @@ function VerCliente() {
   }, []);
 
   return cargando ? (
-    <p>Cargando...</p>
+    <Spinner />
   ) : Object.keys(cliente).length === 0 ? (
     <p>No hay resultados</p>
   ) : (
