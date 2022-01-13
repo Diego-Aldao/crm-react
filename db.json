@@ -1,36 +1,28 @@
 {
   "clientes": [
     {
-      "nombre": "Netflix",
-      "empresa": "adad",
-      "email": "shizusenpai97@gmail.com",
-      "telefono": "123123123123",
-      "notas": "",
-      "id": 3
-    },
-    {
-      "nombre": "Netflix",
-      "empresa": "adad",
-      "email": "asd@asd.com",
-      "telefono": "123123123123",
-      "notas": "",
-      "id": 4
-    },
-    {
-      "nombre": "casa",
-      "empresa": "adad",
-      "email": "diego_ind@live.com.ar",
-      "telefono": "123123123123",
-      "notas": "asd",
-      "id": 5
-    },
-    {
-      "nombre": "Juan2",
+      "nombre": "Juan",
       "empresa": "CCJ",
-      "email": "correo@correo.com",
-      "telefono": "123123123123",
-      "notas": "CCJ",
-      "id": 6
+      "email": "juan@hotmail.com",
+      "telefono": "23512351",
+      "notas": "Código con juan",
+      "id": 1
+    },
+    {
+      "nombre": "Patricia",
+      "empresa": "PC",
+      "email": "patricia@gmail.com",
+      "telefono": "982118312",
+      "notas": "Patricia construcciones",
+      "id": 2
+    },
+    {
+      "nombre": "Edgar",
+      "empresa": "CCJ",
+      "email": "edgar1@hotmail.com",
+      "telefono": "12308876",
+      "notas": "Código con edgar",
+      "id": 3
     }
   ]
 }
